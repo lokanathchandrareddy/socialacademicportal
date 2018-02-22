@@ -1,0 +1,56 @@
+[
+        {
+            "name": "Wing",
+            "course": "Operating Systems",
+            "enrollment": 40,
+            "drop": 5
+        },
+        {
+            "name": "Robert",
+            "course": "Mathematics",
+            "enrollment": 38,
+            "drop": 7
+        },
+        {
+            "name": "Anne",
+            "course": "Algorithms",
+            "enrollment": 45,
+            "drop": 3
+        },
+        {
+            "name": "Kevin",
+            "course": "Criminal Justice",
+            "enrollment": 50,
+            "drop": 2
+        },
+        {
+            "name": "David",
+            "course": "Database",
+            "enrollment": 35,
+            "drop": 10
+        },
+        {
+            "name": "Sarah",
+            "course": "Computer Networks",
+            "enrollment": 40,
+            "drop": 8
+        },
+        {
+            "name": "Matt",
+            "course": "Statistics",
+            "enrollment": 45,
+            "drop": 7
+        },
+        {
+            "name": "Brent",
+            "course": "Mobile Robots",
+            "enrollment": 25,
+            "drop": 15
+        },
+        {
+            "name": "Theodore",
+            "course": "NLP",
+            "enrollment": 30,
+            "drop": 12
+        }
+    ]
