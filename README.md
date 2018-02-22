@@ -1,15 +1,15 @@
 
 
 ## Installation
+on the root 
 $ npm install
 
-
-- Next, install all of the Angular 2 development dependencies in package.json file:
+next change directory to client and run the following
 $ cd client/
 $ npm install
 ```
 
-- Installation is complete. Navigate to the root directory and then:  
+now navigate to the root directory and then:  
 
 ## Production
 -- In root directory:
@@ -17,21 +17,24 @@ $ npm install
 $ npm run build
 $ npm start
 ```
--- Access production server at: http://localhost:8080
+-- production server at: http://localhost:8080
 
 ## Development
 ```
 $ cd client/
 $ ng serve
 ```
--- In another window, from root directory run:
+-- open another window from root directory run:
 ```
 $ npm start
 ```
--- Access development server at: http://localhost:4200
+-- development server at: http://localhost:4200
 
--- Access API at: http://localhost:8080
+-- API routes using postman at  http://localhost:8080
 
+check, if cors, loadash, and other dependencies are updated to latest version 
+
+## Always never forget to use npm install …… —- save 
 
 ## Contributors
 
