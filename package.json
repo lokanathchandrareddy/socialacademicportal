@@ -1,7 +1,7 @@
 {
-  "name": "mean-ang2",
+  "name": "newapp",
   "version": "1.0.0",
-  "description": "MEAN Stack with Angular 2",
+  "description": "socialacademicportal",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,21 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gugui3z24/MEAN-Stack-With-Angular-2-Tutorial.git"
+    "url": "git+https://github.com/lokanathchandrareddy/socialacademicportal.git"
   },
   "keywords": [
-    "MEAN",
-    "Stack",
-    "Angular",
-    "2",
-    "Application"
+    "Socialacademicportal"
+    "MEAN"
   ],
-  "author": "David Acosta",
+  "author": "lokanath",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gugui3z24/MEAN-Stack-With-Angular-2-Tutorial/issues"
-  },
-  "homepage": "https://github.com/gugui3z24/MEAN-Stack-With-Angular-2-Tutorial#readme",
+    "homepage": "https://https://github.com/lokanathchandrareddy/socialacademicportal#readme",
   "dependencies": {
     "@types/lodash": "^4.14.87",
     "angular2-datatable": "^0.6.0",
