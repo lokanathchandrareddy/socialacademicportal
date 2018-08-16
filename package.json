@@ -24,9 +24,16 @@
     "body-parser": "^1.18.3",
     "cors": "^2.8.3",
     "express": "^4.15.3",
+    "forwarded": "^0.1.2",
+    "fresh": "^0.5.2",
     "handlebars": "^4.0.11",
+    "hoek": "^4.2.1",
     "jsonwebtoken": "^8.3.0",
     "lodash": "^4.17.10",
-    "mongoose": "^4.10.2"
+    "mime": "^1.6.0",
+    "mongoose": "^4.10.2",
+    "no-case": "^2.3.2",
+    "tough-cookie": "^2.4.3",
+    "url-parse": "^1.4.3"
   }
 }
