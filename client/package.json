@@ -24,10 +24,17 @@
     "angular2-datatable": "^0.6.0",
     "angular2-jwt": "^0.2.3",
     "core-js": "^2.4.1",
+    "forwarded": "^0.1.2",
+    "fresh": "^0.5.2",
     "handlebars": "^4.0.11",
+    "hoek": "^4.2.1",
     "lodash": "^4.17.10",
+    "mime": "^1.6.0",
+    "no-case": "^2.3.2",
     "rxjs": "^5.0.1",
+    "tough-cookie": "^2.4.3",
     "ts-helpers": "^1.1.1",
+    "url-parse": "^1.4.3",
     "zone.js": "^0.7.2"
   },
   "devDependencies": {
